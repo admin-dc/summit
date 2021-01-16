@@ -1,1 +1,2 @@
 # summit
+git init
